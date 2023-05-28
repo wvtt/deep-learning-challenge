@@ -1,4 +1,4 @@
-# Module 12 Report Template
+# Deep Learning Report
 
 ## Overview
 The purpose of this project is to create a tool for Alphabet Soup that helps select applicants for funding with the highest chance of success in their ventures. The goal is to achieve 75% or higher accuracy for the model. CSV contains more than 34,000 organizations that have received funding from Alphabet Soup over the years. The dataset contains information from each organization including:
